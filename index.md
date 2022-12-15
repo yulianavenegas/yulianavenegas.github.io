@@ -4,11 +4,11 @@ This is my home page! My name is Yuliana Venegas and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/yulianavenegas
+My GitHub page is (http://github.com/yulianavenegas/)
 
 ### CPSC 120
 
-* Lab 2
+* (http://https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-02-yulianavenegas/tree/main/part-3/)
     Lab 2, part 3 was one of my favorites because Hello World is a common first program for many beginner programmers due to its simple language. I liked that this is a useful exercise for learning the basic syntax and structure for a new language, as well as getting a feel for how to write and run a program.
 
 * Lab 6
